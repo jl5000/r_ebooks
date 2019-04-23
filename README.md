@@ -4,6 +4,7 @@ A collection of links to online books to learn R. Generally the ones that are wr
 **Newbies start here**
 * [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
 * [R for Data Science](http://r4ds.had.co.nz/)
+* [Practical R for Mass Communication and Journalism](http://www.machlis.com/R4Journalists/)
 
 **Good practice / Reproducibility**
 * [What They Forgot to Teach You About R](https://whattheyforgot.org/)
