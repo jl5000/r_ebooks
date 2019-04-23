@@ -13,11 +13,14 @@ A collection of links to online books to learn R. Generally the ones that are wr
 * [The tidyverse style guide](http://style.tidyverse.org/)
 
 **Specific skills**
+* [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 * [R Graphics Cookbook](https://r-graphics.org/)
 * [Handling Strings with R](https://www.gastonsanchez.com/r4strings/)
 * [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/)
 * [An Introduction to Statistical and Data Sciences via R](https://moderndive.com/)
+* [Learning Statistics with R](https://learningstatisticswithr.com/book/)
 * [Geocomputation with R](https://geocompr.robinlovelace.net/)
+* [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 * [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/)
 
 **Taking your skills to the next level**
