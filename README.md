@@ -1,5 +1,5 @@
 # Books for learning R
-A collection of links to online books to learn R
+A collection of links to online books to learn R. Generally the ones that are written with the `bookdown` package.
 
 **Newbies start here**
 * [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
