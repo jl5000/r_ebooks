@@ -17,6 +17,7 @@ A collection of links to online books to learn R. Generally the ones that are wr
 **Specific skills**
 * [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 * [R Graphics Cookbook](https://r-graphics.org/)
+* [Spreadsheet Munging Strategies](https://nacnudus.github.io/spreadsheet-munging-strategies/)
 * [Handling Strings with R](https://www.gastonsanchez.com/r4strings/)
 * [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/)
 * [An Introduction to Statistical and Data Sciences via R](https://moderndive.com/)
