@@ -6,6 +6,7 @@ A collection of links to online books to learn R. Generally the ones that are wr
 * [R for Data Science](http://r4ds.had.co.nz/)
 * [Practical R for Mass Communication and Journalism](http://www.machlis.com/R4Journalists/)
 * [Data Science with R: A Resource Compendium](https://bookdown.org/martin_monkman/DataScienceResources_book/)
+* [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 
 **Good practice / Reproducibility**
 * [What They Forgot to Teach You About R](https://whattheyforgot.org/)
@@ -14,6 +15,7 @@ A collection of links to online books to learn R. Generally the ones that are wr
 * [Happy Git and GitHub for the useR](http://happygitwithr.com/)
 * [Efficient R Programming](https://bookdown.org/csgillespie/efficientR/)
 * [The tidyverse style guide](http://style.tidyverse.org/)
+* [R Packages](https://r-pkgs.org/)
 
 **Visualisation**
 * [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
