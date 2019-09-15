@@ -16,6 +16,7 @@ A collection of links to online books to learn R. Generally the ones that are wr
 * [Efficient R Programming](https://bookdown.org/csgillespie/efficientR/)
 * [The tidyverse style guide](http://style.tidyverse.org/)
 * [R Packages](https://r-pkgs.org/)
+* [The drake R Package User Manual](https://ropenscilabs.github.io/drake-manual/)
 
 **Visualisation**
 * [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
