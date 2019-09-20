@@ -39,4 +39,5 @@ A collection of links to online books to learn R. Generally the ones that are wr
 * [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/)
 * [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/)
 * [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
+* [The caret Package](http://topepo.github.io/caret/)
 * [Advanced R](https://adv-r.hadley.nz/)
