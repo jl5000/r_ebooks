@@ -6,7 +6,7 @@ A collection of links to online books to learn R. Generally the ones that are wr
 * [R for Data Science](http://r4ds.had.co.nz/)
 * [Practical R for Mass Communication and Journalism](http://www.machlis.com/R4Journalists/)
 * [Data Science with R: A Resource Compendium](https://bookdown.org/martin_monkman/DataScienceResources_book/)
-* [Introduction to Data Science](https://rafalab.github.io/dsbook/)
+* [Introduction to Data Science: Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)
 * [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 
 **Good practice / Reproducibility**
