@@ -18,6 +18,7 @@ A collection of links to online books to learn R. Generally the ones that are wr
 * [The tidyverse style guide](http://style.tidyverse.org/)
 * [R Packages](https://r-pkgs.org/)
 * [The drake R Package User Manual](https://ropenscilabs.github.io/drake-manual/)
+* [Licensing R](https://thinkr-open.github.io/licensing-r/)
 
 **Visualisation**
 * [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
