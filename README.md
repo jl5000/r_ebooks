@@ -31,15 +31,18 @@ A collection of links to online books to learn R. Generally the ones that are wr
 * [Geocomputation with R](https://geocompr.robinlovelace.net/)
 * [Spatial Data Science](https://keen-swartz-3146c4.netlify.com/)
 
+**Statistics / Machine Learning**
+* [An Introduction to Statistical and Data Sciences via R](https://moderndive.com/)
+* [Learning Statistics with R](https://learningstatisticswithr.com/book/)
+* [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/)
+* [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
+* [The caret Package](http://topepo.github.io/caret/)
+
 **Other skills**
 * [Spreadsheet Munging Strategies](https://nacnudus.github.io/spreadsheet-munging-strategies/)
 * [Handling Strings with R](https://www.gastonsanchez.com/r4strings/)
 * [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/)
-* [An Introduction to Statistical and Data Sciences via R](https://moderndive.com/)
-* [Learning Statistics with R](https://learningstatisticswithr.com/book/)
 * [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 * [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/)
-* [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/)
-* [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
-* [The caret Package](http://topepo.github.io/caret/)
+* [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
 * [Advanced R](https://adv-r.hadley.nz/)
