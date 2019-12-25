@@ -7,12 +7,14 @@ A collection of links to online books to learn R. Generally the ones that are wr
 * [Practical R for Mass Communication and Journalism](http://www.machlis.com/R4Journalists/)
 * [Data Science with R: A Resource Compendium](https://bookdown.org/martin_monkman/DataScienceResources_book/)
 * [Introduction to Data Science: Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)
+* [Statistical Inference via Data Science - A ModernDive into R and the tidyverse](https://moderndive.com/index.html)
 * [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 
 **Good practice / Reproducibility**
 * [What They Forgot to Teach You About R](https://whattheyforgot.org/)
 * [Reproducible Analytical Pipelines Companion](https://ukgovdatascience.github.io/rap_companion/)
 * [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+* [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 * [Happy Git and GitHub for the useR](http://happygitwithr.com/)
 * [Efficient R Programming](https://bookdown.org/csgillespie/efficientR/)
 * [The tidyverse style guide](http://style.tidyverse.org/)
@@ -36,6 +38,7 @@ A collection of links to online books to learn R. Generally the ones that are wr
 * [Learning Statistics with R](https://learningstatisticswithr.com/book/)
 * [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/)
 * [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
+* [Interpretable Machine Learning - A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)
 * [The caret Package](http://topepo.github.io/caret/)
 
 **Other skills**
