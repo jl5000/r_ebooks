@@ -11,6 +11,7 @@ A collection of links to online books to learn R. Generally the ones that are wr
 * [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 
 **Good practice / Reproducibility**
+* [The Turing Way: a how to guide for reproducible data science](https://the-turing-way.netlify.com/)
 * [What They Forgot to Teach You About R](https://whattheyforgot.org/)
 * [Reproducible Analytical Pipelines Companion](https://ukgovdatascience.github.io/rap_companion/)
 * [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
