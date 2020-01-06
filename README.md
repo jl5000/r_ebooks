@@ -22,6 +22,7 @@ A collection of links to online books to learn R. Generally the ones that are wr
 * [R Packages](https://r-pkgs.org/)
 * [The drake R Package User Manual](https://ropenscilabs.github.io/drake-manual/)
 * [Licensing R](https://thinkr-open.github.io/licensing-r/)
+* [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
 
 **Visualisation**
 * [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
@@ -46,6 +47,7 @@ A collection of links to online books to learn R. Generally the ones that are wr
 * [Spreadsheet Munging Strategies](https://nacnudus.github.io/spreadsheet-munging-strategies/)
 * [Handling Strings with R](https://www.gastonsanchez.com/r4strings/)
 * [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/)
+* [21 Recipes for Mining Twitter Data with rtweet](https://rud.is/books/21-recipes/)
 * [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 * [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/)
 * [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
