@@ -47,6 +47,7 @@ A collection of links to online books to learn R. Generally the ones that are wr
 * [Spreadsheet Munging Strategies](https://nacnudus.github.io/spreadsheet-munging-strategies/)
 * [Handling Strings with R](https://www.gastonsanchez.com/r4strings/)
 * [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/)
+* [Mastering Spark with R](https://therinspark.com/index.html)
 * [21 Recipes for Mining Twitter Data with rtweet](https://rud.is/books/21-recipes/)
 * [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 * [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/)
