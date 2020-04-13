@@ -23,6 +23,7 @@ A collection of links to online books to learn R. Generally the ones that are wr
 * [The drake R Package User Manual](https://ropenscilabs.github.io/drake-manual/)
 * [Licensing R](https://thinkr-open.github.io/licensing-r/)
 * [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
+* [GitHub Actions with R](https://ropenscilabs.github.io/actions_sandbox/)
 
 **Visualisation**
 * [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
