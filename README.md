@@ -21,6 +21,7 @@ A collection of links to online books to learn R. Generally the ones that are wr
 * [The tidyverse style guide](http://style.tidyverse.org/)
 * [R Packages](https://r-pkgs.org/)
 * [The drake R Package User Manual](https://ropenscilabs.github.io/drake-manual/)
+* [The targets R Package User Manual](https://wlandau.github.io/targets-manual/)
 * [Licensing R](https://thinkr-open.github.io/licensing-r/)
 * [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
 * [GitHub Actions with R](https://ropenscilabs.github.io/actions_sandbox/)
