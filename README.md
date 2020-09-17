@@ -44,6 +44,7 @@ A collection of links to online books to learn R. Generally the ones that are wr
 * [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 * [Interpretable Machine Learning - A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)
 * [The caret Package](http://topepo.github.io/caret/)
+* [Tidy Modeling with R](https://www.tmwr.org/)
 
 **Other skills**
 * [Spreadsheet Munging Strategies](https://nacnudus.github.io/spreadsheet-munging-strategies/)
