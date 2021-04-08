@@ -57,6 +57,7 @@ A collection of links to online books to learn R. Generally the ones that are wr
 * [Twitter for R Programmers](https://www.t4rstats.com/)
 * [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 * [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/)
+* [JavaScript for R](https://book.javascript-for-r.com/)
 * [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
 * [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/)
 * [Advanced R](https://adv-r.hadley.nz/)
