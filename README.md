@@ -34,6 +34,7 @@ A collection of links to online books to learn R. Generally the ones that are wr
 * [R Graphics Cookbook](https://r-graphics.org/)
 * [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/)
 * [Mastering Shiny](https://mastering-shiny.org/)
+* [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)
 
 **Geospatial**
 * [Geocomputation with R](https://geocompr.robinlovelace.net/)
